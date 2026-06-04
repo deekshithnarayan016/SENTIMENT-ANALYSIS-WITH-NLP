@@ -34,18 +34,6 @@ In this project, the IMDb Movie Reviews dataset is used as the source of custome
 
 The dataset is divided into training and testing sets using the train_test_split() function. After training, the model's performance is evaluated using Accuracy Score, Classification Report, and Confusion Matrix. Additionally, the system allows users to enter their own review and predict its sentiment.
 
----
-
-# TECHNOLOGIES USED
-
-* Python
-* Pandas
-* Scikit-Learn
-* Matplotlib
-* Natural Language Processing (NLP)
-
----
-
 # LIBRARIES USED
 
 * pandas
@@ -73,19 +61,4 @@ The dataset is divided into training and testing sets using the train_test_split
 
 # OUTPUT
 
-* Accuracy Score
-* Classification Report
-* Confusion Matrix Visualization
-* User Review Sentiment Prediction
-
----
-
-# RESULT
-
-The Logistic Regression model successfully classified movie reviews into positive and negative sentiments. The TF-IDF Vectorizer effectively transformed textual data into numerical representations, enabling accurate sentiment classification. The model achieved high accuracy and demonstrated the effectiveness of NLP techniques in text analysis tasks.
-
----
-
-# CONCLUSION
-
-This project demonstrates the implementation of Sentiment Analysis using TF-IDF Vectorization and Logistic Regression. The developed model efficiently classifies textual reviews into positive and negative sentiments, making it useful for analyzing customer feedback, product reviews, and social media opinions. The project highlights the practical application of Natural Language Processing and Machine Learning in real-world sentiment classification problems.
+![img](https://github.com/user-attachments/assets/6525e462-a323-486e-bb66-a5dd63eeee13)
